@@ -1,6 +1,7 @@
 # Human-Resource-Management
 
 -------WorkMan(Human Resource Management Systems)--------
+
 Implement and compare the following sorting algorithm: 
 1. show relations in the database.
 2. The contents of chosen relations, and updates to them
@@ -9,16 +10,22 @@ Implement and compare the following sorting algorithm:
 
 
 -------------------MOTIVATION----------------
+
 Write dynamic script to perform queries on our database 
+
 -------------------FILES--------------------
+
 - Oracle.py 
+
 -------------------Requirements--------------------
+
 1. cx_Oracle package on macOS 
 2. tabular package to display content 
 3. Instant Client package for Mac OS  
 
 
 -------------------Pre-requiste--------------------
+
 1. Connect Pulse-Secure VPN 
 
 -------------------Instructions--------------------
